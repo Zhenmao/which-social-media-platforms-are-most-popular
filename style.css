@@ -73,7 +73,7 @@ body {
   font-family: "Nunito", sans-serif;
   font-size: var(--font-size-p);
   font-weight: 500;
-  font-variant-numeric: tabular-nums, lining-nums;
+  font-variant-numeric: tabular-nums lining-nums;
   color: var(--color-foreground);
   background-color: var(--color-background);
 }
